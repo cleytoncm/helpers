@@ -1,5 +1,7 @@
 Arquivo settings.json
-```{
+
+```
+{
     "workbench.iconTheme": "material-icon-theme",
     "editor.fontFamily": "Fira Code, 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "editor.fontLigatures": true,
@@ -15,4 +17,5 @@ Arquivo settings.json
     "editor.parameterHints.enabled": false,
     "breadcrumbs.enabled": true,
     "javascript.suggest.autoImports": false
-}```
+}
+```
